@@ -9,7 +9,7 @@ Required modules:
 * Opencv python
 * imutils
 
-  ## How to run the programes
+  ## How to run the programs
   1. Go to either of the two folders - Using_TCP or Using_UDP
   2. Check the readme inside each folder for further information
 
