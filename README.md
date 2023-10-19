@@ -8,3 +8,9 @@ Images will be sent by a client.  It can be drone or any other device to a serve
 Required modules:
 * Opencv python
 * imutils
+
+  ## How to run the programes
+  1. Go to either of the two folders - Using_TCP or Using_UDP
+  2. Check the readme inside each folder for further information
+
+### Enjoy !!
